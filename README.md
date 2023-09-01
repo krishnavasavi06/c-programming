@@ -32,7 +32,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
   <img width="14" />
-  /div>
+  </div>
 
 ###
 
