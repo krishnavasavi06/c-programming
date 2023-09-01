@@ -55,17 +55,11 @@
 
 <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-###
-
-<p align="left">"👨‍💻 Coding my way through life's challenges | 🌟 Exploring the art of programming | ☕ Coffee-fueled developer | 📚 Lifelong learner | 🎧 Beats and bugs | Let's collaborate and code cool things! 🚀"</p>
 
 ###
 
 <p align="left">"👋 Explorer of the digital realm | ✨ Crafting lines of code with creativity | 🌱 Learning, growing, and coding | 🚀 Turning caffeine into code | 🎮 Gaming when not debugging | Connect with me and let's code together! 🤝"</p>
 
-###
-
-<p align="left">"💻 Coding enthusiast on a journey of bytes | 🎨 Creating with lines of logic | 🚴‍♂️ Cycling through algorithms | 📚 Lifelong student of codecraft | 🌌 Exploring galaxies of code possibilities | Let's make ideas come to life through code! 🌟"</p>
 
 ###
 
